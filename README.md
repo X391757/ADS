@@ -1,0 +1,3 @@
+- **init.sql**: Contains preprocessing commands.
+- **sql_assignment1**: Includes the SQL version of Naive Bayes.
+- **udtf_assignment1**: Includes the UDTF version of Naive Bayes.
